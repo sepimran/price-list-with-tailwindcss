@@ -1,0 +1,39 @@
+[  
+    {    
+        "id": 1,    
+        "name": "Basic Membership",    
+        "price": 50,    
+        "features": [      
+            "Access to cardio equipment",      
+            "Use of free weights",      
+            "Locker rental"    
+        ],
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/09/09/16/women-gym.jpg?width=1200"
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 75,
+    "features": [
+      "Access to all equipment",
+      "Unlimited group fitness classes",
+      "Towel service",
+      "Personal training session"
+    ],
+    "image": "https://as1.ftcdn.net/v2/jpg/02/49/73/32/1000_F_249733275_cPoGXWcE8TpXhyQBwAVOizNcOBEt0wWT.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ultimate Membership",
+    "price": 100,
+    "features": [
+      "Access to all equipment",
+      "Unlimited group fitness classes",
+      "Towel service",
+      "Personal training session",
+      "24-hour gym access",
+      "Sauna and steam room access"
+    ],
+    "image": "https://media.istockphoto.com/id/961254774/photo/getting-fit-one-lift-at-a-time.jpg?s=612x612&w=0&k=20&c=XEjzmkqhwsHZgZLMXAsTtH8iwKzIwRTQpyUPgRX-7lo="
+  }
+]
